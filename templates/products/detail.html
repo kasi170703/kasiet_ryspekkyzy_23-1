@@ -19,7 +19,6 @@
             padding: 10px;
         }
 
-
         .text {
             font-size: 15px;
             font-family: sans-serif;
@@ -31,13 +30,14 @@
     </style>
     <div class="product">
         <div class="image">
-            <img src="/media/{{ product.image }}/" alt="">
+            <img src="/media/{{ product.image.url }}/" alt="">
         </div>
         <div>
             <div style="display:flex; justify-content: space-between">
                 <h1>{{ product.name }}</h1>
             </div>
             <h5>{{ product.description }}</h5>
+            <p>{{ product.category }}</p>
             <div>
                 <p>{{ product.price }}</p>
             </div>

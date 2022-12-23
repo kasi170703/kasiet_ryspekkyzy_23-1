@@ -4,10 +4,11 @@
     <style type="text/css">
         .products {
             display: flex;
+            justify-content: center;
             justify-content: space-between;
+            flex-wrap: wrap;
             width: 80%;
             margin-left: 10%;
-            flex-wrap: wrap;
             padding: 10px;
         }
     </style>
@@ -15,6 +16,7 @@
         {% for product in products %}
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
+                    <img src="{{ product.image.url }}" alt="" width="265">
                     <h5 class="card-title">{{ product.name }}</h5>
                     <h6 class="card-subtitle">{{ product.price }}</h6>
                     <h7 class="card-subtitle">{{ product.image }}</h7>
