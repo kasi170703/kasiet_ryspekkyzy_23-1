@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12057321-e37f-4c51-84ba-3f501e460ceb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/almaz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/almaz_BAejAhZ.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blog5/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blog5/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blog5/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blog5/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/migrations/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/store/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/products/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/products/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/products/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/products/products.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/media" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BLOG8" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -86,7 +84,8 @@
       <workItem from="1671303960840" duration="6711000" />
       <workItem from="1671311371674" duration="1762000" />
       <workItem from="1671363284088" duration="1194000" />
-      <workItem from="1671447518297" duration="8156000" />
+      <workItem from="1671447518297" duration="9382000" />
+      <workItem from="1671783269067" duration="8059000" />
     </task>
     <servers />
   </component>
@@ -103,5 +102,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
